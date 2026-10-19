@@ -1,19 +1,4 @@
-
-### ⚠️ One important point
-
-The performance table above comes from **values explicitly hardcoded in your notebook**. The notebook also reconstructs some confusion-matrix predictions manually. So don't present these as independently reproduced experimental results unless you have actually run the complete notebook and verified them.
-
----
-
-# 4. requirements.txt
-
-Create:
-
-```text
 pandas
-numpy
 torch
 transformers
 scikit-learn
-matplotlib
-seaborn
